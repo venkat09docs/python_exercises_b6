@@ -34,3 +34,14 @@ def say_hello():
 
 say_hello()
 help(say_hello)
+
+print("Hello")
+
+numbers = [1, 2, 3]
+len_num = len(numbers)
+print(len_num)
+
+# Function:
+# Functionality / Task / Operation: Function Name
+# Identify the Inputs: Arguments / parameters
+# Return the output: return
