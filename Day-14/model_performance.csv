@@ -1,0 +1,4 @@
+Model,Accuracy,Response Time (ms),Tokens
+gpt-3.5-turbo,0.92,150,1200
+gpt-4,0.96,300,2500
+gpt-4-turbo,0.94,200,1800
